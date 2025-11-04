@@ -62,7 +62,7 @@ b. Audits w/ no HMs found
 ## Professional Courses & Certifications
 
 **Rektoff Cohort 2 — A Solana Foundation Sponsored Program**
-- Rust + Solana security deep dive w/ Daniel Cumming and [M4rio](https://x.com/m4rio_eth)
+- Rust + Solana security deep dive w/ [Daniel Cumming](https://x.com/danielkcumming) and [M4rio](https://x.com/m4rio_eth)
 - Focused on Rust, Solana smart contract security principles, exploit detection, and mitigation  
 
 **Cyfrin Updrafts**
