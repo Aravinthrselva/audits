@@ -47,7 +47,7 @@ Highlighting selected results from public contests where I managed sufficient co
 | [Munchables](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 2H, 1M | 13th  | Points farming game  |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3 H, 1 M  |  🥈 2nd | NFT sales models |
 
-*Note : The above list does Not include   
+*Note : The above list does not include   
 a. private engagements   
 b. contests w/ low coverage   
 c. Audits w/ no HMs found   
