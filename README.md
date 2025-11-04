@@ -33,7 +33,7 @@ Security Analysis: Foundry Fuzz, Slither, Threat Modeling, Manual Analysis, LLMs
 
 ---
 
-## Public Audit Findings (updating)
+## Public Audit Portfolio (updating)
 Highlighting selected results from public contests where I managed sufficient coverage
 
 | Protocol                 | Date       | Findings | Comments  |Description |
