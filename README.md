@@ -1,12 +1,11 @@
 # Hi I'm Arav 
 
 A former DeFi trader, power user turned Security Researcher   
+Leveraging real-world DeFi experience to uncover and prevent protocol exploits  
 
-leveraging real-world DeFi experience to uncover and prevent protocol exploits  
-
-~ Strong DeFi background enables me to detect logical flaws and economic vulnerabilities beyond code-level bugs  
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks  
+~ Strong DeFi background enables me to detect logical flaws and economic vulnerabilities beyond code-level bugs   
 ~ EVM, Solana
 
 
