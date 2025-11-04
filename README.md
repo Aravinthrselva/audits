@@ -4,10 +4,13 @@ A former DeFi trader, power user turned Security Researcher
 Leveraging real-world DeFi experience to uncover and prevent protocol exploits  
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
-~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks  
+~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc   
 ~ Strong DeFi background enables me to detect logical flaws and economic vulnerabilities beyond code-level bugs   
 ~ EVM, Solana
 
+Current All-time leaderboards    
+~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
+~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard)  
 
 ## Contact 
 
