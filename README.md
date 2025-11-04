@@ -47,8 +47,7 @@ Highlighting selected results from public contests where I managed sufficient co
 | [Munchables](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 2H, 1M | 13th  | Points farming game  |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3 H, 1 M  |  🥈 2nd | NFT sales models |
 
-*Note : above lists excludes 
-a. contests w/ low coverage 
+*Note : above lists excludes contests w/ low coverage 
 
 *Refer aggregated contest history for a detailed view [link](https://audits.sherlock.xyz/watson/arav)  
 
