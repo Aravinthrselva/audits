@@ -9,7 +9,7 @@ Leveraging real-world DeFi experience to uncover and prevent protocol exploits
 ~ EVM, Solana
 
 Current All-time leaderboards    
-~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
+~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/aravn)   
 ~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard)  
 
 ## Contact 
