@@ -1,7 +1,7 @@
-# Hi I'm Arav 
+# Hi I'm Arav (I find bugs AI tools miss)
 
-A former DeFi trader, power user turned Security Researcher   
-Leveraging real-world DeFi experience to uncover and prevent protocol exploits  
+A trader, Defi user turned Security Researcher.     
+Leveraging real-world DeFi experience to uncover and prevent protocol exploits.
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc   
@@ -40,7 +40,7 @@ Highlighting selected results from public contests where I managed sufficient co
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
-| [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H, 1M | Pending final   | Prediction market on Sonic   |
+| [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market on Sonic   |
 | [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 6H, 6M | Pending final | Perpetuals, Bonding curve, AMM, Launchpad on MegaETH | 
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | Jun 2025 | 1H, 1M | 14th | Launchpad, DEX on Avalanche  |
@@ -62,6 +62,7 @@ b. Audits w/ no HMs found
 ## Professional Courses & Certifications
 
 **Rektoff Cohort 2 — A Solana Foundation Sponsored Program**
+- Graduated w/ highest coverage (most issues found) in the capstone audit in my cohort
 - Rust + Solana security deep dive w/ [Daniel Cumming](https://x.com/danielkcumming) and [M4rio](https://x.com/m4rio_eth)
 - Focused on Rust, Solana smart contract security principles, exploit detection, and mitigation  
 
