@@ -1,4 +1,4 @@
-# Hi I'm Arav (I find bugs AI tools miss)
+# Hi I'm Arav 
 
 A trader, Defi user turned Security Researcher.     
 Leveraging real-world DeFi experience to uncover and prevent protocol exploits.
@@ -6,19 +6,20 @@ Leveraging real-world DeFi experience to uncover and prevent protocol exploits.
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc   
 ~ Strong DeFi background enables me to detect logical flaws and economic vulnerabilities beyond code-level bugs   
-~ EVM, Solana
+~ EVM, Solana  
+
 
 Current All-time leaderboards    
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
-~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard)  
+~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard
 
 ## Contact 
 
 (DM for collab)
  
-X  [@0xarav](https://x.com/0xArav)   
-Email aravinthrselva@gmail.com    
-[LinkedIn](https://www.linkedin.com/in/aravinth-selva/)    
+X Profile : Aura [@0xarav](https://x.com/0xArav)   
+Email : aravinthrselva@gmail.com    
+LinkedIn : [LinkedIn](https://www.linkedin.com/in/aravinth-selva/)    
 
 ---
 
@@ -41,7 +42,7 @@ Highlighting selected results from public contests where I managed sufficient co
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market on Sonic   |
-| [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 6H, 6M | Pending final | Perpetuals, Bonding curve, AMM, Launchpad on MegaETH | 
+| [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 16th | Perpetuals, Bonding curve, AMM, Launchpad on MegaETH | 
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | Jun 2025 | 1H, 1M | 14th | Launchpad, DEX on Avalanche  |
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |  Feb 2025 | 4H, 8 M | 105/470 | RWA  |
