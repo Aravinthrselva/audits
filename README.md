@@ -1,12 +1,13 @@
 # Hi I'm Arav 
 
 A trader, Defi user turned Security Researcher.     
-Leveraging real-world DeFi experience to uncover and prevent protocol exploits.
+Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
-~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc   
-~ Strong DeFi background enables me to detect logical flaws and economic vulnerabilities beyond code-level bugs   
-~ EVM, Solana  
+~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc  
+~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
+~ Current focus : Solana, EVM
+~ Exploring : DLTs / Cross-chain / Zero-Knowledge 
 
 
 Current All-time leaderboards    
@@ -15,7 +16,7 @@ Current All-time leaderboards
 
 ## Contact 
 
-(DM for collab)
+(DM for audit related equiries)
  
 X Profile : Aura [@0xarav](https://x.com/0xArav)   
 Email : aravinthrselva@gmail.com    
@@ -25,7 +26,7 @@ LinkedIn : [LinkedIn](https://www.linkedin.com/in/aravinth-selva/)
 
 ## Technical Stack
 
-Solidity_EVM, Rust_Solana, Move(Sui), Javascript, Typescript  
+Solidity_EVM, Rust_Solana, Javascript, Typescript  
 
 ### Frameworks
 Foundry, Hardhat, Anchor, Pinocchio, Node js, Web3 js, React js  
@@ -55,9 +56,10 @@ Highlighting selected results from public contests where I managed sufficient co
 
 *Refer aggregated contest history for a detailed view [link](https://audits.sherlock.xyz/watson/arav)  
 
-*Note : both the above lists exclude   
-a. private engagements / disclosures      
-b. Audits w/ no HMs found   
+*Note : 
+both the above lists exclude   
+a. Audits w/ no HMs found   
+b. private engagements / internal security reviews 
 
 ---
 ## Professional Courses & Certifications
