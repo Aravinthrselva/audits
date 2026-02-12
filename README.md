@@ -6,7 +6,8 @@ Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thr
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc  
 ~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
-~ Current focus : Solana, EVM
+
+~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals
 ~ Exploring : DLTs / Cross-chain / Zero-Knowledge 
 
 
