@@ -1,6 +1,6 @@
 # Hi I'm Arav 
 
-A trader, Defi user turned Security Researcher.     
+A trader, developer turned Security Researcher.     
 Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
