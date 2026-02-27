@@ -7,7 +7,7 @@ Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thr
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc  
 ~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
 
-~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets
+~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets   
 ~ Exploring : DLTs / Cross-chain / Zero-Knowledge / Formal Verification  
 
 
