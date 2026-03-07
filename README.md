@@ -1,4 +1,4 @@
-# Hi I'm Arav 
+# Hi I'm Aura 
 
 A trader, developer turned Security Researcher.     
 Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
