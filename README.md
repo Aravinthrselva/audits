@@ -10,18 +10,21 @@ Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thr
 ~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets   
 ~ Exploring : DLTs / Cross-chain / Zero-Knowledge / Formal Verification  
 
-
 Current All-time leaderboards    
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
 ~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard
+
+### Blog
+
+~ [aurastack](https://substack.com/@aurastack)
 
 ## Contact 
 
 (DM for audit related equiries)
  
-X Profile : Aura [@0xarav](https://x.com/0xArav)   
-Email : aravinthrselva@gmail.com    
-LinkedIn : [LinkedIn](https://www.linkedin.com/in/aravinth-selva/)    
+- X Profile : Aura [@0xarav](https://x.com/0xArav)   
+- Email : aravinthrselva@gmail.com    
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/aravinth-selva/)    
 
 ---
 
