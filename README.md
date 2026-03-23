@@ -47,7 +47,7 @@ Highlighting selected results from public contests where I managed sufficient co
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
-| [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 16th | Perpetuals, Bonding curve, AMM, Launchpad  | 
+| [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 15th | Perpetuals, Bonding curve, AMM, Launchpad  | 
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | Jun 2025 | 1H, 1M | 14th | Launchpad, DEX on Avalanche  |
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |  Feb 2025 | 4H, 8 M | 105/470 | RWA  |
