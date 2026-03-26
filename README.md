@@ -66,6 +66,14 @@ a. Audits w/ no HMs found
 b. private engagements / internal security reviews 
 
 ---
+## Private Audits (updating ..)
+
+| Protocol - Ecosystem     |  Provider      | Description | Report  |
+|:-------------------------|:-----------|:-----------|:---------|
+| _ |   _ |   _ | _  | 
+
+
+---
 ## Professional Courses & Certifications
 
 **Rektoff Cohort 2 — A Solana Foundation Sponsored Program**
