@@ -66,7 +66,7 @@ a. Audits w/ no HMs found
 b. private engagements / internal security reviews 
 
 ---
-## Private Audits (updating ..)
+## Private Solana/Rust Audits (updating ..)
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
