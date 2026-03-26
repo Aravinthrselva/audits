@@ -51,10 +51,10 @@ Highlighting selected results from public contests where I managed sufficient co
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | Jun 2025 | 1H, 1M | 14th | Launchpad, DEX on Avalanche  |
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |  Feb 2025 | 4H, 8 M | 105/470 | RWA  |
-| [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |  Feb 2025 | 1 M |  🥈 2nd  | Prediction market, Aave staking |
+| [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |  Feb 2025 | 1M |  🥈 2nd  | Prediction market, Aave staking |
 | [Olas](https://code4rena.com/audits/2024-05-olas) |  Jun 2024| 1M | 12th  | AI Agents  |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 2H, 1M | 11th  | Points farming game  |
-| [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3 H, 1 M  |  🥈 2nd | NFT sales models |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3H, 1M  |  🥈 2nd | NFT sales models |
 
 *Note : above lists excludes contests w/ low coverage 
 
