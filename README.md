@@ -20,7 +20,7 @@ Current All-time leaderboards
 
 ## Contact 
 
-(DM for audit related equiries)
+(DM for audit equiries)
  
 - X Profile : Aura [@0xarav](https://x.com/0xArav)   
 - Email : aravinthrselva@gmail.com    
