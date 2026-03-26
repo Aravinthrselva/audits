@@ -68,9 +68,9 @@ b. private engagements / internal security reviews
 ---
 ## Private Audits (updating ..)
 
-| Protocol - Ecosystem     |  Provider      | Description | Report  |
-|:-------------------------|:-----------|:-----------|:---------|
-| _ |   _ |   _ | _  | 
+| Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
+|:-------------------------|:-----------|:-----------|:---------|:---------|
+| [Wick - lantern validator](https://x.com/LanternStake) - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | M-04, L-02 |
 
 
 ---
