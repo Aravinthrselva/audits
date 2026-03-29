@@ -1,7 +1,10 @@
 # Hi I'm Aura 
 
 A trader, developer turned Security Researcher.     
-Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
+Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.   
+
+Currently helping teams design safer protocols in EVM and Solana.
+
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
 ~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc  
@@ -11,8 +14,13 @@ Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thr
 ~ Exploring : DLTs / Cross-chain / Zero-Knowledge / Formal Verification  
 
 Current All-time leaderboards    
+
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
-~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard
+~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
+~ Code4rena signal : 75%  
+
+<img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
+
 
 ### Blog
 
@@ -66,11 +74,13 @@ a. Audits w/ no HMs found
 b. private engagements / internal security reviews 
 
 ---
-## Private Solana/Rust Audits (updating ..)
+## Solana Rust Audits (updating ..)
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
-| [Wick - lantern validator](https://x.com/LanternStake) - Rust, Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
+| [Wick - lantern validator](https://x.com/LanternStake)  - Solana, Anchor |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
+| [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana, Anchor |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana |
+| Metalend - Solana, Anchor |   [Rektoff](https://x.com/rektoff_xyz)  - capstone audit project | A lending protocol | _  | Highest coverage (most HMs found) in my cohort |
 
 
 ---
