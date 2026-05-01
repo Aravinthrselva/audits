@@ -3,7 +3,7 @@
 A trader, developer turned Security Researcher.     
 Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.   
 
-Currently helping teams design safer protocols in EVM and Solana.
+Currently helping teams build safer protocols in EVM and Solana.
 
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
@@ -45,7 +45,7 @@ Foundry, Hardhat, Anchor, Pinocchio, Node js, Web3 js, React js
 
 ### Monitoring & Analysis Tools
 Monitoring: Phalcon, Tenderly, Forta   
-Security Analysis: Foundry Fuzz, Slither, Threat Modeling, Manual Analysis, LLMs  
+Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs  
 
 ---
 
@@ -74,7 +74,7 @@ a. Audits w/ no HMs found
 b. private engagements / internal security reviews 
 
 ---
-## Solana Rust Audits (updating ..)
+## Solana Rust Audits (updating)
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
