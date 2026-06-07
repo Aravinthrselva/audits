@@ -52,6 +52,11 @@ Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs
 ## Public Audit Portfolio (updating)
 Highlighting selected results from public contests where I managed sufficient coverage
 
+*Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view 
+
+the above lists excludes   
+a. Audits w/ no HMs found   
+
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
@@ -64,14 +69,9 @@ Highlighting selected results from public contests where I managed sufficient co
 | [Munchables](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 2H, 1M | 11th  | Points farming game  |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3H, 1M  |  🥈 2nd | NFT sales models |
 
-*Note : above lists excludes contests w/ low coverage 
-
-*Refer aggregated contest history for a detailed view [link](https://audits.sherlock.xyz/watson/arav)  
-
-*Note : 
-both the above lists exclude   
-a. Audits w/ no HMs found   
-b. private engagements / internal security reviews 
+*Note : the above table excludes 
+- contests w/ low coverage
+- private engagements / internal security reviews 
 
 ---
 ## Solana Rust Audits (updating)
