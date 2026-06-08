@@ -7,7 +7,7 @@ Currently helping teams build safer protocols in EVM and Solana.
 
 
 ~ Proven track record of identifying vulnerabilities in decentralized systems, smart contracts  
-~ 60+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks etc  
+~ 100+ High/Medium findings confirmed across platforms like Code4rena, Sherlock, Codehawks, etc and internal private reviews   
 ~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
 
 ~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets   
