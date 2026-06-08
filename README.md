@@ -22,11 +22,11 @@ Current All-time leaderboards
 <img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
 
 
-### Blog
+### ✒️ Blog
 
 ~ [aurastack](https://substack.com/@aurastack)
 
-## Contact 
+## 📨 Contact 
 
 (DM for audit equiries)
  
@@ -36,7 +36,7 @@ Current All-time leaderboards
 
 ---
 
-## Technical Stack
+## ⚙️ Technical Stack
 
 Solidity_EVM, Rust_Solana, Javascript, Typescript  
 
@@ -49,7 +49,7 @@ Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs
 
 ---
 
-## Public Audit Portfolio (updating)
+## 🎖️Public Audit Portfolio (updating)
 Highlighting selected results from public contests where I managed sufficient coverage
 
 *Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view 
@@ -75,7 +75,7 @@ a. Audits w/ no HMs found
 - private engagements / internal security reviews 
 
 ---
-## Solana / Rust Audits (updating)
+## 🦀 Solana / Rust Audits (updating)
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
@@ -87,7 +87,7 @@ a. Audits w/ no HMs found
 
 
 ---
-## Professional Courses & Certifications
+## 🎓 Professional Courses & Certifications
 
 **Rektoff Cohort 2 — A Solana Foundation Sponsored Program**
 - Graduated w/ highest coverage (most issues found) in the capstone audit in my cohort
