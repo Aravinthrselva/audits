@@ -59,6 +59,7 @@ a. Audits w/ no HMs found
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
+| [K2](https://code4rena.com/audits/2026-04-k2) |   Apr 2026  |   TBD | Judging | Lending Market, Stellar, Soroban    |
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
 | [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 15th | Perpetuals, Bonding curve, AMM, Launchpad  | 
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
@@ -74,10 +75,11 @@ a. Audits w/ no HMs found
 - private engagements / internal security reviews 
 
 ---
-## Solana Rust Audits (updating)
+## Solana / Rust Audits (updating)
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
+| [K2](https://code4rena.com/audits/2026-04-k2) , Stellar, Soroban  |   Code4rena |   Lending Market, RWA | Judging |    |
 | [Wick V2 - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab  | Integration of yield donation feature + other modifications |  [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf) | _ |
 | [Wick - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
 | [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana (although i didnt report issues) |
