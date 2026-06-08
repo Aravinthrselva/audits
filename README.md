@@ -83,7 +83,7 @@ a. Audits w/ no HMs found
 | [Wick V2 - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab  | Integration of yield donation feature + other modifications |  [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf) | _ |
 | [Wick - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
 | [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana (although i didnt report issues) |
-| Metalend - Solana |   [Rektoff](https://x.com/rektoff_xyz)  - capstone audit project | A lending protocol | _  | Highest coverage (most HMs found) in my cohort |
+| Metalend - Solana |   [Rektoff](https://x.com/rektoff_xyz)  - capstone audit project | A lending protocol | [📃](https://x.com/0xArav/status/2004227425178415424)  | Highest coverage (most HMs found) in my cohort |
 
 
 ---
