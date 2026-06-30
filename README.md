@@ -11,7 +11,7 @@ Currently helping teams build safer protocols in EVM and Solana.
 ~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
 
 ~ Current Expertise : Lending, AMMs, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets   
-~ Exploring : DLTs / Cross-chain / Zero-Knowledge / Formal Verification  
+~ Exploring : Move (Sui), DLTs, Cross-chain, Zero-Knowledge, Formal Verification  
 
 Current All-time leaderboards    
 
@@ -41,7 +41,7 @@ Current All-time leaderboards
 Solidity_EVM, Rust_Solana, Javascript, Typescript  
 
 ### Frameworks
-Foundry, Hardhat, Anchor, Pinocchio, Node js, Web3 js, React js  
+Foundry, Hardhat, Anchor, Pinocchio
 
 ### Monitoring & Analysis Tools
 Monitoring: Phalcon, Tenderly, Forta   
