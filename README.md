@@ -52,18 +52,17 @@ Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs
 ## 🎖️Public Audit Portfolio (updating)
 Highlighting selected results from public contests where I managed sufficient coverage
 
-*Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view 
-
-the above lists excludes   
-a. Audits w/ no HMs found   
+*Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view  
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
 | [K2](https://code4rena.com/audits/2026-04-k2) |   Apr 2026  |   TBD | Judging | Lending Market, Stellar, Soroban    |
+| [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Jan 2026 | _ | No HMs found in scope | Sale token upside exposure with downside protection |
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
 | [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 15th | Perpetuals, Bonding curve, AMM, Launchpad  | 
 | [Mellow flexible vaults](https://audits.sherlock.xyz/contests/964)   |  Jul 2025 |  1H, 3M | 25th | Staking vaults, asset management |
 | [Blackhole](https://code4rena.com/audits/2025-05-blackhole) | Jun 2025 | 1H, 1M | 14th | Launchpad, DEX on Avalanche  |
+| [PinLink](https://audits.sherlock.xyz/contests/852) | Mar 2025 | _ | No HMs found in scope | RWA-Tokenized DePIN Marketplace  |
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |  Feb 2025 | 4H, 8 M | 105/470 | RWA , Lending |
 | [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |  Feb 2025 | 1M |  🥈 2nd  | Prediction market, Aave staking |
 | [Olas](https://code4rena.com/audits/2024-05-olas) |  Jun 2024| 1M | 12th  | AI Agents  |
