@@ -16,7 +16,7 @@ Currently helping teams build safer protocols in EVM and Solana.
 Current All-time leaderboards    
 
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
-~ Top 500 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
+~ Top 250 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
 ~ Code4rena signal : 75%  
 
 <img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
@@ -56,7 +56,7 @@ Highlighting selected results from public contests where I managed sufficient co
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
-| [K2](https://code4rena.com/audits/2026-04-k2) |   Apr 2026  |   TBD | Judging | Lending Market, Stellar, Soroban    |
+| [K2](https://code4rena.com/audits/2026-04-k2) |   May 2026  |   5Hm 1M | 🥈 2nd  | Lending Market, Stellar/Soroban    |
 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Jan 2026 | _ | No HMs found in scope | Sale token upside exposure with downside protection |
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
 | [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 15th | Perpetuals, Bonding curve, AMM, Launchpad  | 
@@ -78,7 +78,7 @@ Highlighting selected results from public contests where I managed sufficient co
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
-| [K2](https://code4rena.com/audits/2026-04-k2) , Stellar, Soroban  |   Code4rena |   Lending Market, RWA | Judging |    |
+| [K2](https://code4rena.com/audits/2026-04-k2) , Stellar/Soroban  |   Code4rena |   Lending Market, RWA | NDA |  🥈 [2nd place](https://x.com/0xArav/status/2078048826632347999)   |
 | [Wick V2 - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab  | Integration of yield donation feature + other modifications |  [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf) | _ |
 | [Wick - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
 | [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana (although i didnt report issues) |
