@@ -1,7 +1,7 @@
 # Hi I'm Aura 
 
 A trader, developer turned Security Researcher.     
-Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.   
+Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests,
 
 Currently helping teams build safer protocols in EVM and Solana.
 
@@ -56,7 +56,7 @@ Highlighting selected results from public contests where I managed sufficient co
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
-| [K2](https://code4rena.com/audits/2026-04-k2) |   May 2026  |   5Hm 1M | 🥈 2nd  | Lending Market, Stellar/Soroban    |
+| [K2](https://code4rena.com/audits/2026-04-k2) |   May 2026  |   5H 1M | 🥈 2nd  | Lending Market, Stellar/Soroban    |
 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Jan 2026 | _ | No HMs found in scope | Sale token upside exposure with downside protection |
 | [Index.Fun OrderBook](https://audits.sherlock.xyz/contests/1197) |   Oct 2025  |   1H | 13th | Prediction market    |
 | [GTE Perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)  | Sep 2025 | 5H, 5M | 15th | Perpetuals, Bonding curve, AMM, Launchpad  | 
