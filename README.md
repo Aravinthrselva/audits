@@ -1,7 +1,9 @@
 # Hi I'm Aura 
 
 A trader, developer turned Security Researcher.     
-Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests,
+Disclosing vulnerabilities that slip through AI agents/tools.
+Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
+
 
 Currently helping teams build safer protocols in EVM and Solana.
 
@@ -17,6 +19,7 @@ Current All-time leaderboards
 
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
 ~ Top 250 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
+(official ranking hides undisclosed contest earnings)
 ~ Code4rena signal : 75%  
 
 <img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
@@ -33,19 +36,6 @@ Current All-time leaderboards
 - X Profile : Aura [@0xarav](https://x.com/0xArav)   
 - Email : aravinthrselva@gmail.com    
 - LinkedIn : [LinkedIn](https://www.linkedin.com/in/aravinth-selva/)    
-
----
-
-## ⚙️ Technical Stack
-
-Solidity_EVM, Rust_Solana, Javascript, Typescript  
-
-### Frameworks
-Foundry, Hardhat, Anchor, Pinocchio
-
-### Monitoring & Analysis Tools
-Monitoring: Phalcon, Tenderly, Forta   
-Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs, AI Harness  
 
 ---
 
@@ -85,6 +75,19 @@ Highlighting selected results from public contests where I managed sufficient co
 | [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana (although i didnt report issues) |
 | Metalend - Solana |   [Rektoff](https://x.com/rektoff_xyz)  - capstone audit project | A lending protocol | [📃](https://x.com/0xArav/status/2004227425178415424)  | Highest coverage (most HMs found) in my cohort |
 
+
+---
+
+## ⚙️ Technical Stack
+
+Solidity_EVM, Rust_Solana, Javascript, Typescript  
+
+### Frameworks
+Foundry, Hardhat, Anchor, Pinocchio
+
+### Monitoring & Analysis Tools
+Monitoring: Phalcon, Tenderly, Forta   
+Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs, AI Harness  
 
 ---
 ## 🎓 Professional Courses & Certifications
