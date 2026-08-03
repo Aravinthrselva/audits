@@ -52,7 +52,7 @@ Security Analysis: Foundry Fuzz, Threat Modeling, Manual Analysis, LLMs, AI Harn
 ## 🎖️Public Audit Portfolio (updating)
 Highlighting selected results from public contests where I managed sufficient coverage
 
-*Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view  
+*Refer aggregated [contest history](https://audits.sherlock.xyz/watson/arav) for a detailed view (excludes audits w/ undisclosed reports)  
 
 | Protocol                 | Date       | Findings | Comments  |Description |
 |:-------------------------|:-----------|:-----------|:---------|:----------|
@@ -67,7 +67,7 @@ Highlighting selected results from public contests where I managed sufficient co
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |  Feb 2025 | 4H, 8 M | 105/470 | RWA , Lending |
 | [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |  Feb 2025 | 1M |  🥈 2nd  | Prediction market, Aave staking |
 | [Olas](https://code4rena.com/audits/2024-05-olas) |  Jun 2024| 1M | 12th  | AI Agents  |
-| [Munchables](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 2H, 1M | 11th  | Points farming game  |
+| [Munchables 1,2](https://code4rena.com/audits/2024-05-munchables)     |  May 2024 | 3H, 1M | 11th  | Points farming game  |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen)  |  Nov 2023  | 3H, 1M  |  🥈 2nd | NFT sales models |
 
 *Note : the above table excludes 
