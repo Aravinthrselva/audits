@@ -1,7 +1,7 @@
 # Hi I'm Aura 
 
 A trader, developer turned Security Researcher.     
-Disclosing vulnerabilities that slip through AI agents/tools.
+Disclosing vulnerabilities that slip through AI agents/tools.  
 Leveraging extensive DeFi knowledge to uncover and prevent protocol exploits thru internal security reviews and public audit contests.
 
 
