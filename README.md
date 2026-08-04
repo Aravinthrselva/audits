@@ -13,13 +13,13 @@ Currently helping teams build safer protocols in EVM and Solana.
 ~ solid economics background, meticulous attention to detail and strong intuition for vulnerabilities enable me to detect logical flaws and economic issues beyond code-level bugs   
 
 ~ Current Expertise : Lending, AMMs, DeFi integrations, Launchpads, Bonding curve sales models, Yield strategies, Perpetuals , Prediction markets   
-~ Exploring : Move ecosystem, DLTs, Cross-chain, Zero-Knowledge, Formal Verification  
+~ Exploring : Canton / DAML, Move ecosystem, DLTs, Zero-Knowledge, Formal Verification  
 
 Current All-time leaderboards    
 
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
 ~ Top 250 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
-(official ranking hides undisclosed contest earnings)
+(official ranking hides undisclosed contest earnings)  
 ~ Code4rena signal : 75%  
 
 <img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
