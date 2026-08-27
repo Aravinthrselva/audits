@@ -20,9 +20,9 @@ Current All-time leaderboards
 ~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
 ~ Top 250 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
 (official ranking hides undisclosed contest earnings)  
-~ Code4rena signal : 75%  
 
-<img width="378" height="155" alt="image" src="https://github.com/user-attachments/assets/f0854a54-c06c-4b1c-960f-1e685cfe4d06" />
+~ Code4rena signal : 77%  
+<img width="386" height="164" alt="image" src="https://github.com/user-attachments/assets/de26fe9b-d81c-4673-bdf3-4c8eff6c6509" />
 
 
 ### ✒️ Blog
@@ -69,7 +69,7 @@ Highlighting selected results from public contests where I managed sufficient co
 
 | Protocol - Ecosystem     |  Provider - type      | Description | Report  | Comments |
 |:-------------------------|:-----------|:-----------|:---------|:---------|
-| [K2](https://code4rena.com/audits/2026-04-k2) , Stellar/Soroban  |   Code4rena |   Lending Market, RWA | NDA |  🥈 [2nd place](https://x.com/0xArav/status/2078048826632347999)   |
+| [K2](https://code4rena.com/audits/2026-04-k2) , Stellar/Soroban  |   Code4rena |   Lending Market, RWA | [📃](https://code4rena.com/audits/2026-04-k2/submissions?page=1&search=avantga&filter=all) |  🥈 [2nd place](https://x.com/0xArav/status/2078048826632347999)   |
 | [Wick V2 - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab  | Integration of yield donation feature + other modifications |  [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf) | _ |
 | [Wick - lantern validator](https://x.com/LanternStake)  - Solana |   [Frank Castle](https://x.com/0xcastle_chain) - collab | Yield conversion protocol on Solana, where a crank harvests LST yield periodically and swaps to an user selected target_token | [📃](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)  | [X_post](https://x.com/0xArav/status/2037442805807931480) |
 | [Meteora DBC Launchpad](https://x.com/MeteoraAG) - Solana |   [Code4rena](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) - contest | A highly configurable dynamic bonding curve launchpad | [📃](https://code4rena.com/reports/2025-08-meteora-dynamic-bonding-curve)  | A deep dive into one of the top protocols on solana (although i didnt report issues) |
