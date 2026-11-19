@@ -16,9 +16,9 @@ Currently helping teams build safer protocols in EVM and Solana.
 ~ Exploring : Canton / DAML, Move ecosystem, DLTs, Zero-Knowledge, Formal Verification  
 
 Current All-time leaderboards    
-
-~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)   
+ 
 ~ Top 100 in [Code4rena](https://code4rena.com/@AvantGard) as AvantGard   
+~ Top 100 in [Cyfrin_Codehawks](https://profiles.cyfrin.io/u/0xarav)  
 ~ Top 5 Code4rena (2025-26) 
 
 ~ Code4rena signal : 77%  
